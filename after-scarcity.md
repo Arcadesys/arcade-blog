@@ -1,5 +1,7 @@
 # After Scarcity
 
+*If campfire logic describes how creative culture survives, what kind of economy can support it now that scarcity is collapsing?*
+
 The market model is dying. It is not being murdered. It is encountering a condition it was never built to survive.
 
 That condition is abundance.
@@ -44,11 +46,13 @@ The con sketch is real. Eight minutes. Ten bucks. A badge that means more than a
 
 ---
 
-I'm not naive about this.
+I'm not naive about this. And I'm not sneering at artists trying to survive.
 
 Working artists face real economic pressure. Rent is due in dollars, not reciprocity. The transition from a scarcity market to an abundance economy is not painless, and pretending otherwise would be dishonest. Artists who built careers on commission income are watching their pricing power erode in real time. That's not abstract. That's groceries.
 
-But the solution is not to pretend AI doesn't exist. It's not to legislate scarcity back into a system that has structurally moved past it. Every attempt to enforce artificial scarcity on digital goods has failed. DRM failed. Paywalls leak. Copyright enforcement online is a game of whack-a-mole that platforms play only when it's cheaper than not playing.
+But the survival model was already brittle before AI showed up. Platform dependency, algorithmic visibility, race-to-the-bottom pricing, clients who ghost after the sketch phase. The commission economy was never a stable system for most working artists. It was a hustle that worked for some, failed quietly for many, and enriched the platforms that brokered every transaction. AI didn't break a thriving ecosystem. It accelerated the collapse of one that was already buckling under its own contradictions.
+
+The solution is not to pretend AI doesn't exist. It's not to legislate scarcity back into a system that has structurally moved past it. Every attempt to enforce artificial scarcity on digital goods has failed. DRM failed. Paywalls leak. Copyright enforcement online is a game of whack-a-mole that platforms play only when it's cheaper than not playing.
 
 The solution is to stop organizing creative culture around a market model that was always extractive and only ever worked for a small elite. The gallery system served gallerists. The recording industry served labels. The commission economy, at its best, served individual artists. At its worst, it created a race to the bottom where artists competed on price for algorithmic visibility on platforms that took a cut of every transaction.
 

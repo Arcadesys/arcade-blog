@@ -30,7 +30,7 @@ e621 is the largest furry art archive on the planet. It exists because people up
 
 Nobody calls it that. But that's what it is. That does not make every kind of reuse the same. It makes the community's relationship to circulation, ownership, and permanence a lot messier than its rhetoric admits.
 
-Go back further. Yerf was an early attempt at a curated furry art institution: selective, slow, and proud of it. The opposite approach. Quality gates. Juried submissions. Slow review processes. People called it elitist. It raised thousands in donations. It collapsed anyway. The community chose volume over curation every single time, and then pretended that wasn't a choice.
+Go back further. [Yerf](https://en.wikifur.com/wiki/Yerf_(art_archive)) was an early attempt at a curated furry art institution: selective, slow, and proud of it. The opposite approach. Quality gates. Juried submissions. Slow review processes. People called it elitist. It [raised thousands in donations](https://en.wikifur.com/wiki/History_of_Yerf) for data recovery after a catastrophic hard drive failure in 2004. It collapsed anyway. The community chose volume over curation every single time, and then pretended that wasn't a choice.
 
 Now go back one more step. The transition from print commissions to digital commissions. Real money changed hands over this fight. People argued that digital work wasn't a "real" commission. That if an artist didn't mail you a physical piece of paper, you hadn't bought art. You'd bought a file. A copy. Something disposable.
 
@@ -42,7 +42,7 @@ The line moved. The community forgot. And now we're doing it again.
 
 ---
 
-Fur Affinity banned AI-generated art in 2022. The stated reason: AI content "samples other artists' work" and allowing it is not "in our community's best interests." Protect the artists. Protect the community. The same framing Yerf used to justify its gates. The same instinct, recycled, aimed at whatever medium is newest and least understood.
+[Fur Affinity banned AI-generated art](https://www.flayrah.com/8747/fur-affinity-bans-artworks-generated-artificial-intelligence-programs) in September 2022. The stated reason: AI content "samples other artists' work" and allowing it is not "in our community's best interests." Protect the artists. Protect the community. The same framing Yerf used to justify its gates. The same instinct, recycled, aimed at whatever medium is newest and least understood.
 
 In 2020, "This Fursona Does Not Exist" generated legal threats and community rage for training on e621 data. A site built on unsanctioned uploads of other people's art drew the line at unsanctioned use of that same art by a machine. The irony wrote itself. Nobody laughed.
 

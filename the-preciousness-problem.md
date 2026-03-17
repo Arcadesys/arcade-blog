@@ -1,10 +1,12 @@
 # The Preciousness Problem
 
+*The first essay in this series argued that the furry fandom already runs on disposable art, and panics every time a new medium makes that visible. This essay asks a different question: where did our obsession with singular, precious authorship come from in the first place?*
+
 Nobody painted the Mona Lisa alone.
 
-That sentence bothers people. It shouldn't. Leonardo da Vinci ran a workshop. He had apprentices, assistants, specialists. Someone mixed pigments. Someone prepared panels. Someone filled in backgrounds while the master worked on hands and faces. This was not a scandal. This was Tuesday. Every major Renaissance painter operated the same way. Raphael's workshop produced so much work under his name that art historians still argue about which brushstrokes are "his." The answer, for most of the history of art, was that nobody cared.
+That sentence bothers people. It shouldn't. Leonardo da Vinci [ran a workshop](https://www.worldhistory.org/article/1611/life-in-a-renaissance-artists-workshop/). He had apprentices, assistants, specialists. Someone mixed pigments. Someone prepared panels. Someone filled in backgrounds while the master worked on hands and faces. This was not a scandal. This was Tuesday. Every major Renaissance painter operated the same way. Raphael's workshop produced so much work under his name that [art historians still argue](https://www.euronews.com/culture/2024/01/05/ai-study-suggests-famous-raphael-painting-was-not-entirely-his-own-work) about which brushstrokes are "his." The answer, for most of the history of art, was that nobody cared.
 
-The workshop model was the default for centuries. Art was a craft. You learned it through apprenticeship, the way you learned carpentry or metalwork. The guild system governed who could practice, what materials they used, how they trained. The master's name went on the piece because the master ran the shop. Not because the master's hand touched every square inch of canvas. Attribution was a business convention. Not a moral claim.
+The workshop model was the default for centuries. Art was a craft. You learned it through apprenticeship, the way you learned carpentry or metalwork. In Florence, painters belonged to the [Arte dei Medici e Speziali](https://www.italianrenaissanceresources.com/units/unit-3/essays/guilds-arti/), the guild of physicians and apothecaries, because apothecaries supplied pigments. The guild system governed who could practice, what materials they used, how they trained. The master's name went on the piece because the master ran the shop. Not because the master's hand touched every square inch of canvas. Attribution was a business convention. Not a moral claim.
 
 ---
 
@@ -12,19 +14,19 @@ Patrons didn't buy genius. They bought results.
 
 The Medici commissioned frescoes the way a modern company commissions a website. Here's the wall. Here's the subject. Here's the deadline. The artist's job was execution within constraints. Creative freedom existed, sure. But the idea that an artwork sprang fully formed from one person's singular vision, untouched by commercial pressure or collaborative process? That would have gotten you laughed out of Florence.
 
-The shift happened later than people think. The 17th century planted the seeds. The Romantic movement watered them. But the real transformation came with the rise of the modern art market in the 18th and 19th centuries.
+The shift happened later than people think. The 17th century planted the seeds. The Romantic movement watered them. But the real transformation came with the [rise of the modern art market](https://www.britannica.com/money/art-market/The-18th-century) in the 18th and 19th centuries.
 
-Dealers needed a story. Collectors needed provenance. The gallery system needed a reason to charge what it charged. And the reason they landed on was authorship. Singular, verifiable, individual authorship. "Who made this?" became the question that determined value. Not "is this beautiful?" Not "does this serve its purpose?" Not "does this move you?" Just: whose hand? Whose name? Whose genius?
+Dealers needed a story. Collectors needed provenance. The gallery system needed a reason to charge what it charged. By the mid-19th century, [speculation had become integral to the art market](https://www.19thc-artworldwide.org/spring20/baetens-on-artist-dealer-agreements-and-the-nineteenth-century-art-market) and dealers signed contracts with artists before their rise to fame, building reputations to justify prices. The reason they all landed on was authorship. Singular, verifiable, individual authorship. "Who made this?" became the question that determined value. Not "is this beautiful?" Not "does this serve its purpose?" Not "does this move you?" Just: whose hand? Whose name? Whose genius?
 
 ---
 
 The lone genius myth is an economic invention.
 
-That's not a metaphor. The art market required scarcity to function. A painting by Vermeer is worth millions because there are only thirty-four of them. If Vermeer had run a factory, if his apprentices had produced hundreds of works in his style, if attribution was fuzzy and provenance uncertain, the price collapses. The market doesn't work without the story of the individual creator whose output is finite and whose touch is irreplaceable.
+That's not a metaphor. The art market required scarcity to function. A painting by Vermeer is worth millions because there are only [thirty-four of them](https://www.essentialvermeer.com/how_many_vermeers.html). If Vermeer had run a factory, if his apprentices had produced hundreds of works in his style, if attribution was fuzzy and provenance uncertain, the price collapses. The market doesn't work without the story of the individual creator whose output is finite and whose touch is irreplaceable.
 
 So the market built that story. And then culture absorbed it. And then we forgot it was a story at all.
 
-The Victorians finished the job. They codified the split between "high art" and "craft." Painting: high art. Pottery: craft. Sculpture: high art, unless it was functional, in which case: craft. The distinction had nothing to do with skill or beauty or cultural significance. It had everything to do with which objects could be sold as unique expressions of individual genius and which ones couldn't.
+The Victorians finished the job. They [codified the split](https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction) between "high art" and "craft." Painting: high art. Pottery: craft. Sculpture: high art, unless it was functional, in which case: craft. The distinction had nothing to do with skill or beauty or cultural significance. It had everything to do with which objects could be sold as unique expressions of individual genius and which ones couldn't.
 
 Craft was collaborative, reproducible, functional. High art was singular, authored, useless. The uselessness was the point. It proved you were paying for the idea, not the object. For the name, not the thing.
 
