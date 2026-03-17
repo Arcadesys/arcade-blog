@@ -1,4 +1,4 @@
-# Disposable Art
+# Furry: A Case Study in Disposable Art and Long-Term Memory Loss
 
 I make disposable art on purpose.
 
