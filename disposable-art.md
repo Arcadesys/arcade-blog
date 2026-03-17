@@ -2,7 +2,7 @@
 
 I make disposable art on purpose.
 
-Not because I don't care about it. Because I understand what it is. I generate images that exist for a moment, serve a feeling, and dissolve into the feed. I write scenes that live for one conversation. I make the creative equivalent of a five dollar con sketch — something that hits you in the chest at 2 AM in a hotel hallway and then lives forever in a folder you forget to back up.
+Not because I don't care about it. Because I understand what it is. I generate images that exist for a moment, serve a feeling, and dissolve into the feed. I write scenes that live for one conversation. I make the creative equivalent of a five dollar con sketch. The kind that hits you in the chest at 2 AM in a hotel hallway and then lives forever in a folder you forget to back up.
 
 This is not a tragedy. This is the point.
 
@@ -10,7 +10,7 @@ This is not a tragedy. This is the point.
 
 I don't say that lightly.
 
-I've been in and around the furry fandom for twenty years. My chosen family consists almost entirely of people from this community. The people who showed up when things got bad, who built the infrastructure I leaned on when the world outside didn't have a place for me — they're furries. I've commissioned art. I've uploaded art. I've sat in artist alleys and hotel lobbies and Discord servers and watched every one of these fights play out in real time.
+I've been in and around the furry fandom for twenty years. My chosen family consists almost entirely of people from this community. The people who showed up when things got bad, who built the infrastructure I leaned on when the world outside didn't have a place for me. They're furries. I've commissioned art. I've uploaded art. I've sat in artist alleys and hotel lobbies and Discord servers and watched every one of these fights play out in real time.
 
 I'm a gremlin with a word processor, a command line, and something to say. I've been making things with AI longer than most people have had a word for it. My novels have AI editors. My images, AI generated as they are, still bring delight to the chats I share them with. My weird little code experiments often live and die in a group chat. And I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
 
@@ -26,7 +26,7 @@ The furry community built itself on this principle and then forgot.
 
 Here's the part nobody wants to talk about.
 
-e621 is the largest furry art archive on the planet. It exists because people upload art — their own, their commissions, stuff they found, stuff they saved, stuff the original artist may not even know is there. Tags replace attribution. Duplicates multiply. The site is a clearinghouse, not a gallery. It treats art as shareable, remixable, infinite overflow. It is, by design, a monument to disposable art.
+e621 is the largest furry art archive on the planet. It exists because people upload art. Their own, their commissions, stuff they found, stuff they saved, stuff the original artist may not even know is there. Tags replace attribution. Duplicates multiply. The site is a clearinghouse, not a gallery. It treats art as shareable, remixable, infinite overflow. It is, by design, a monument to disposable art.
 
 Nobody calls it that. But that's what it is.
 
@@ -36,7 +36,7 @@ Now go back one more step. The transition from print commissions to digital comm
 
 Sound familiar?
 
-Digital won. Nobody remembers that fight. The panic evaporated so completely that the same community now treats digital art as the sacred default — the very thing they once said wasn't real.
+Digital won. Nobody remembers that fight. The panic evaporated so completely that the same community now treats digital art as the sacred default. The very thing they once said wasn't real.
 
 The line moved. The community forgot. And now we're doing it again.
 
@@ -54,9 +54,9 @@ Print to digital: flinch. Digital to AI: flinch. The art was always disposable. 
 
 ---
 
-I make jingles now. I make zines. I make the digital equivalent of that badge sketch — fast, hot, born to be shared and remixed and forgotten and rediscovered. I use AI tools the way I use a Sharpie: because they're there, because they work, because the point was never the tool.
+I make jingles now. I make zines. I make the digital equivalent of that badge sketch. Fast, hot, born to be shared and remixed and forgotten and rediscovered. I use AI tools the way I use a Sharpie: because they're there, because they work, because the point was never the tool.
 
-If you've ever uploaded to e621, you live in the disposable art economy. If you've ever commissioned a YCH, you live there. If you've ever grabbed a free adopt or reposted a meme or saved someone's art to your phone without checking the source — you live there.
+If you've ever uploaded to e621, you live in the disposable art economy. If you've ever commissioned a YCH, you live there. If you've ever grabbed a free adopt or reposted a meme or saved someone's art to your phone without checking the source? You live there.
 
 AI didn't build that economy. It just made it impossible to pretend it doesn't exist.
 
@@ -66,7 +66,7 @@ There's a version of this essay that tries to be fair. That weighs both sides. T
 
 This isn't that essay.
 
-This is a manifesto. And the manifesto says: disposability is not a failure of art. It is a *strategy*. It is how fan communities have always worked — fast, cheap, meaningful in the moment, uncontrolled by gatekeepers. The zine didn't ask permission. The con sketch didn't apply for a grant. The badge in your lanyard holder right now is disposable art and it means more to you than half the prints on your wall.
+This is a manifesto. And the manifesto says: disposability is not a failure of art. It is a *strategy*. It is how fan communities have always worked: fast, cheap, meaningful in the moment, uncontrolled by gatekeepers. The zine didn't ask permission. The con sketch didn't apply for a grant. The badge in your lanyard holder right now is disposable art and it means more to you than half the prints on your wall.
 
 I'm not ashamed of making things that don't last. I'm proud of making things that matter right now.
 
