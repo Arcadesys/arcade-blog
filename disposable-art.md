@@ -8,6 +8,16 @@ This is not a tragedy. This is the point.
 
 ---
 
+I don't say that lightly.
+
+I've been in and around the furry fandom for twenty years. My chosen family consists almost entirely of people from this community. The people who showed up when things got bad, who built the infrastructure I leaned on when the world outside didn't have a place for me — they're furries. I've commissioned art. I've uploaded art. I've sat in artist alleys and hotel lobbies and Discord servers and watched every one of these fights play out in real time.
+
+I'm a gremlin with a Wacom tablet and a command line. I've been making things with AI longer than most people have had a word for it — novels, images, weird little experiments that live and die in a group chat. And I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
+
+That sketch wasn't precious. It was alive.
+
+---
+
 Punk never asked you to frame the flyer. Zine culture ran on photocopiers and staples and the understanding that the thing you held in your hands had a half-life. Con badges got laminated if you were lucky. Most of them ended up in a drawer. The art didn't matter less because it was temporary. It mattered more. It mattered *now*, in this room, between these people, for this weekend. Preciousness was never the goal. Connection was.
 
 The furry community built itself on this principle and then forgot.
@@ -43,14 +53,6 @@ The furry community does not resist disposable art. It produces more of it than 
 Print to digital: flinch. Digital to AI: flinch. The art was always disposable. The mirror just got bigger.
 
 ---
-
-I need to say something here, and I don't say it lightly.
-
-I've been in and around the furry fandom for twenty years. My chosen family consists almost entirely of people from this community. The people who showed up when things got bad, who built the infrastructure I leaned on when the world outside didn't have a place for me — they're furries. I've commissioned art. I've uploaded art. I've sat in artist alleys and hotel lobbies and Discord servers and watched every one of these fights play out in real time.
-
-I'm a gremlin with a Wacom tablet and a command line. I've been making things with AI longer than most people have had a word for it — novels, images, weird little experiments that live and die in a group chat. And I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
-
-That sketch wasn't precious. It was alive.
 
 I make jingles now. I make zines. I make the digital equivalent of that badge sketch — fast, hot, born to be shared and remixed and forgotten and rediscovered. I use AI tools the way I use a Sharpie: because they're there, because they work, because the point was never the tool.
 
