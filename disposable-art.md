@@ -70,8 +70,8 @@ This isn't that essay.
 
 This is a manifesto. And the manifesto says: disposability is not a failure of art. It is a *strategy*. Disposability is not what makes art cheap. Gatekeeping is. Fan communities have always worked this way: fast, cheap, meaningful in the moment, uncontrolled by gatekeepers. The zine didn't ask permission. The con sketch didn't apply for a grant. The badge in your lanyard holder right now is disposable art and it means more to you than half the prints on your wall.
 
-I'm not ashamed of making things that don't last. I'm proud of making things that matter right now.
+I'm not ashamed of making things that don't last. I'm proud of making things that matter right now - to me, to my friends, and to the community members who do appreciate the experiments.
 
-The panic will pass. The line will move. The community will forget this fight the same way it forgot every other one.
+The panic will pass. The line will move. The community will forget this fight the same way it forgot every other one. My work will persist in a hard drive and bring a smile to my face every once in a while. Some pieces will carry the kind of electricity that leads to stories, or art installations, or novels. But the vast majority will be forgotten.
 
-And the art — disposable, temporary, punk as hell — will keep getting made.
+Just like every other art form in existence, some art will get round-filed, and _that's okay_. What matters is that the art — disposable, temporary, punk as hell — will keep getting made.
