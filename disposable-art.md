@@ -44,7 +44,7 @@ Print to digital: flinch. Digital to AI: flinch. The art was always disposable. 
 
 ---
 
-I'm a furry. I've commissioned art. I've uploaded art. I've watched these cycles from inside the community, not from the peanut gallery. I've done AI-enabled creative work longer than most people have had a word for it. I'm a published novelist and a Chief AI Transformation Officer and I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
+I'm a furry. I've commissioned art. I've uploaded art. I've watched these cycles from inside the community, not from the peanut gallery. I've been making things with AI longer than most people have had a word for it — novels, images, weird little experiments that live and die in a group chat. I'm a gremlin with a Wacom tablet and a command line and I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
 
 That sketch wasn't precious. It was alive.
 
