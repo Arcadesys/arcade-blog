@@ -2,7 +2,7 @@
 
 I make disposable art on purpose.
 
-Not because I don't care about it. Because I understand what it is. I generate images that exist for a moment, serve a feeling, and dissolve into the feed. I write scenes that live for one conversation. I make the creative equivalent of a five dollar con sketch. The kind that hits you in the chest at 2 AM in a hotel hallway and then lives forever in a folder you forget to back up.
+Not because I don't care about it. Because I know exactly what it is. I generate images that exist for a moment, serve a feeling, and dissolve into the feed. I write scenes that live for one conversation. I make the creative equivalent of a five dollar con sketch. The kind that hits you in the chest at 2 AM in a hotel hallway and then lives forever in a folder you forget to back up.
 
 This is not a tragedy. This is the point.
 
@@ -18,9 +18,9 @@ That sketch wasn't precious. It was alive.
 
 ---
 
-Punk never asked you to frame the flyer. Zine culture ran on photocopiers and staples and the understanding that the thing you held in your hands had a half-life. Con badges got laminated if you were lucky. Most of them ended up in a drawer. The art didn't matter less because it was temporary. It mattered more. It mattered *now*, in this room, between these people, for this weekend. Preciousness was never the goal. Connection was.
+Punk never asked you to frame the flyer. Zine culture ran on photocopiers and staples and the understanding that the thing you held in your hands had a half-life. Con badges got laminated if you were lucky. Most of them ended up in a drawer. The art didn't matter less because it was temporary. It mattered more because it was. It mattered *now*, in this room, between these people, for this weekend. Preciousness was never the goal. Connection was.
 
-The furry community built itself on this principle and then forgot.
+The furry community was shaped by this principle and then learned to disown it whenever a new medium showed up.
 
 ---
 
@@ -28,9 +28,9 @@ Here's the part nobody wants to talk about.
 
 e621 is the largest furry art archive on the planet. It exists because people upload art. Their own, their commissions, stuff they found, stuff they saved, stuff the original artist may not even know is there. Tags replace attribution. Duplicates multiply. The site is a clearinghouse, not a gallery. It treats art as shareable, remixable, infinite overflow. It is, by design, a monument to disposable art.
 
-Nobody calls it that. But that's what it is.
+Nobody calls it that. But that's what it is. That does not make every kind of reuse the same. It makes the community's relationship to circulation, ownership, and permanence a lot messier than its rhetoric admits.
 
-Go back further. Yerf tried the opposite approach. Quality gates. Juried submissions. Slow review processes. People called it elitist. It raised thousands in donations. It collapsed anyway. The community chose volume over curation every single time, and then pretended that wasn't a choice.
+Go back further. Yerf was an early attempt at a curated furry art institution: selective, slow, and proud of it. The opposite approach. Quality gates. Juried submissions. Slow review processes. People called it elitist. It raised thousands in donations. It collapsed anyway. The community chose volume over curation every single time, and then pretended that wasn't a choice.
 
 Now go back one more step. The transition from print commissions to digital commissions. Real money changed hands over this fight. People argued that digital work wasn't a "real" commission. That if an artist didn't mail you a physical piece of paper, you hadn't bought art. You'd bought a file. A copy. Something disposable.
 
@@ -42,7 +42,7 @@ The line moved. The community forgot. And now we're doing it again.
 
 ---
 
-Fur Affinity banned AI-generated art in 2022. The stated reason: "content lacking artistic merit." That's the same framing people used to dismiss digital art a generation ago. The same framing Yerf used to justify its gates. The same instinct, recycled, aimed at whatever medium is newest and least understood.
+Fur Affinity banned AI-generated art in 2022. The stated reason: AI content "samples other artists' work" and allowing it is not "in our community's best interests." Protect the artists. Protect the community. The same framing Yerf used to justify its gates. The same instinct, recycled, aimed at whatever medium is newest and least understood.
 
 In 2020, "This Fursona Does Not Exist" generated legal threats and community rage for training on e621 data. A site built on unsanctioned uploads of other people's art drew the line at unsanctioned use of that same art by a machine. The irony wrote itself. Nobody laughed.
 
@@ -58,6 +58,8 @@ I make jingles now. I make zines. I make the digital equivalent of that badge sk
 
 If you've ever uploaded to e621, you live in the disposable art economy. If you've ever commissioned a YCH, you live there. If you've ever grabbed a free adopt or reposted a meme or saved someone's art to your phone without checking the source? You live there.
 
+Fan art has never obeyed museum logic. It obeys campfire logic. Pass it around. Add to it. React to it. Carry it for a night. Let it change shape in other hands.
+
 AI didn't build that economy. It just made it impossible to pretend it doesn't exist.
 
 ---
@@ -66,7 +68,7 @@ There's a version of this essay that tries to be fair. That weighs both sides. T
 
 This isn't that essay.
 
-This is a manifesto. And the manifesto says: disposability is not a failure of art. It is a *strategy*. It is how fan communities have always worked: fast, cheap, meaningful in the moment, uncontrolled by gatekeepers. The zine didn't ask permission. The con sketch didn't apply for a grant. The badge in your lanyard holder right now is disposable art and it means more to you than half the prints on your wall.
+This is a manifesto. And the manifesto says: disposability is not a failure of art. It is a *strategy*. Disposability is not what makes art cheap. Gatekeeping is. Fan communities have always worked this way: fast, cheap, meaningful in the moment, uncontrolled by gatekeepers. The zine didn't ask permission. The con sketch didn't apply for a grant. The badge in your lanyard holder right now is disposable art and it means more to you than half the prints on your wall.
 
 I'm not ashamed of making things that don't last. I'm proud of making things that matter right now.
 
