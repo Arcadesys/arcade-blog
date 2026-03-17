@@ -12,7 +12,7 @@ I don't say that lightly.
 
 I've been in and around the furry fandom for twenty years. My chosen family consists almost entirely of people from this community. The people who showed up when things got bad, who built the infrastructure I leaned on when the world outside didn't have a place for me — they're furries. I've commissioned art. I've uploaded art. I've sat in artist alleys and hotel lobbies and Discord servers and watched every one of these fights play out in real time.
 
-I'm a gremlin with a Wacom tablet and a command line. I've been making things with AI longer than most people have had a word for it — novels, images, weird little experiments that live and die in a group chat. And I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
+I'm a gremlin with a word processor, a command line, and something to say. I've been making things with AI longer than most people have had a word for it. My novels have AI editors. My images, AI generated as they are, still bring delight to the chats I share them with. My weird little code experiments often live and die in a group chat. And I still think the best art I've ever been part of was a badge sketch at MFF that took eight minutes and cost me ten bucks.
 
 That sketch wasn't precious. It was alive.
 
