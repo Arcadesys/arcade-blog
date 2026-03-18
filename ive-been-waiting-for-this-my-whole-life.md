@@ -10,7 +10,7 @@ It's the sound of everyone getting it wrong.
 
 ## We've Done This Before
 
-The dot-com boom was supposed to change everything. It did, eventually — but first it changed nothing in the ways people predicted and everything in the ways they didn't. The early arrivals built castles on sand and called it revolution. The revolution showed up ten years later wearing a hoodie and running on AWS.
+The dot-com boom was supposed to change everything. It did, eventually — but first it changed nothing in the ways people predicted and everything in the ways they didn't. The early arrivals built castles on sand and called it a revolution. The revolution showed up ten years later wearing a hoodie and running on AWS.
 
 Cloud computing. Same pattern. "Why would anyone put their data on someone else's computer?" became "Why would anyone *not*?" in about five years. The early skeptics were wrong. The early evangelists were also wrong. The actual transformation was messier and more mundane and more total than either side imagined.
 
@@ -44,7 +44,7 @@ Here's where it gets personal.
 
 I have a custom language model trained on over a million words of my own prose. My sentences. My rhythms. My particular way of building a scene where the dialogue comes first and the emotion sneaks in sideways.
 
-When that model suggests a revision, it doesn't sound like a machine. It sounds like me on a good day — the version of me who's had enough sleep and whose eyes aren't burning. I built it because I'm a low-vision, neurodivergent writer who loves drafting and hates revision, and the editorial slog of traditional revision was physically inaccessible to me. So I engineered around the problem.
+When that model suggests a revision, it doesn't sound like a machine. It sounds like me on a good day — the version of me who's had enough sleep and whose eyes aren't burning. I built it because I'm a low-vision, neurodivergent writer who loves drafting and hates revision, and the editorial slog of traditional read-with-a-red-pen-in-hand was physically inaccessible to me. So I engineered around the problem.
 
 Someone I care about saw me using these tools and thought I'd given up writing. That I'd handed the work to a machine.
 
@@ -86,7 +86,7 @@ But I've been watching these cycles my whole life, and I've never once seen cent
 
 I'm building.
 
-I built an editorial engine that lets me finish novels I'd been carrying for years. I built a coordination system that makes AI agents work together like a publishing house. I'm writing about it, openly, because transparency is how trust works and because I think there are other people out there — disabled creators, indie builders, writers with a drawer full of unfinished work — who need to see what's possible before they'll believe it.
+I built an editorial engine that lets me finish novels I'd been carrying for years. I coordinated AI agents to work together like a publishing house. I'm writing about it, openly, because transparency is how trust works and because I think there are other people out there — disabled creators, indie builders, writers with a drawer full of unfinished work — who need to see what's possible before they'll believe it.
 
 I'm not waiting for someone to hand me the future. I'm not waiting for the perfect tool or the right moment or permission from an industry that never gave me permission for anything else either.
 
@@ -96,4 +96,4 @@ I've been waiting for this my whole life.
 
 ---
 
-*Austen Tucker is the author of The Two-Flat Cats, Bait and Switch, The Painted Cat, and Single Player Co-Op. She builds things at [thearcades.me](https://thearcades.me).*
+*Austen Tucker is the author of The Two-Flat Cats, Bait and Switch, The Painted Cat, and Single Player Co-Op. They build things at [thearcades.me](https://thearcades.me).*
