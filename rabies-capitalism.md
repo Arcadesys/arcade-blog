@@ -1,26 +1,54 @@
 # Rabies Capitalism
 
-You know what a dying animal does?
+Consider the frothing grimace of a raccoon in your headlights.
 
-It doesn't lie down. It doesn't accept it. It doesn't go gentle into that good night.
+And most importantly, if you have symptoms of rabies, you're already dead. You just don't know it yet.
+
+---
+
+AI, in an ironic twist of fate, has made capitalism so unstable that it now fights anything that gets close to it.
+
+I'm not here to argue that the free market will transform and survive. To do so requires medicine we don't have; and furthermore, why end a good thing?
+
+---
+
+For millennia, the currency that powered society was labor.
+
+Someone needed to make the butter to feed everyone. Someone else needed to make the guns to protect everyone. The sum of all human trade systems, from the ancient rite of kings to modern market-based capitalism, has been about the division of labor.
+
+Humans are primates with more complexities and depression. Our needs must be met: we must eat, sleep, feel safe. Maslow covered that ground for us already.
+
+The other thing about people is that we're absolute shitgoblins when it comes to doing things equally. We find ways to distinguish "value" — cleaning a toilet? Not valuable. Building Facebook? One of the most valuable things a human can do in capitalism.
+
+And it's been a good system, overall. It took us to the moon. It ushered in an industrial revolution that gave us the highest standard of living human beings have ever known.
+
+Has it been equal? No. But it does get results.
+
+AI breaks a core assumption of the market: that labor is necessary and, furthermore, expensive.
+
+---
+
+It occurred to me this weekend that I haven't "played" with a new app or computer thingy in about a year. Which for someone like me, who grew up with a keyboard under their fingers, feels strange to say.
+
+But it's true. Computers are no longer interesting to me. They're trucks I use to shovel context into and out of LLMs.
+
+Why would I think of anything else? Why learn someone's app when the LLM can get me 90% of the way there?
+
+And if I want something, I build it. Custom, built to order. Like the bad old days, when you could program little apps to help you do basic things like "Roll 7000 dice and produce a probability table."
+
+---
+
+A rabid animal does not go gentle into that good night.
+
+A mammal affected with rabies becomes compelled to do everything in its power to spread the virus as effectively as possible. Hydrophobia causes a concentration of the viral load into the leftover saliva, increasing the chance of infection from bites. Hallucination and aggression, caused by the virus eating your prefrontal cortex, encourage the mammal to fight against anyone who tries to help them.
+
+It thrashes.
 
 It bites.
 
----
-
-## The System Isn't Dying Quietly
-
-I've been writing about scarcity — how the whole economic engine runs on the assumption that valuable things are hard to produce, so you gate access and extract rent.
-
-And I've been watching that assumption break in real time.
-
-But here's the part I didn't say clearly enough:
-
-**The system isn't transitioning. It's thrashing.**
+It infects.
 
 ---
-
-## What Rabies Looks Like
 
 A rabid animal doesn't know it's dying. It just knows something is wrong and it needs to bite harder.
 
@@ -28,13 +56,9 @@ That's what I see when I look around.
 
 Platforms locking down APIs. Studios suing over training data. Publishers tightening licensing on works that weren't selling anyway. Companies laying off thousands while posting record profits. Everything getting more expensive while the cost of production craters.
 
-That's not strategy.
-
-That's rabies.
+There is no strategy. There is only rabies.
 
 ---
-
-## The Incentive Trap
 
 Here's the thing nobody in an economics class will tell you:
 
@@ -52,15 +76,13 @@ Not because it works. Because it's the only move they know.
 
 ---
 
-## I've Seen This Before
-
 I'm a writer. I've watched the publishing industry for years.
 
-You want to know what publishers did when ebooks made distribution nearly free? They raised prices. They added DRM. They fought Amazon in court while simultaneously becoming dependent on it.
+For a brief moment on the internet, having a keyboard and something to say could make you a good living. I had many friends who made their living in the proto-internet era as journalists, content writers, sensitivity readers, podcasters, chief-happiness-officers, the whole nine.
 
-They didn't adapt to abundance. They tried to re-impose scarcity by force.
+I've always appreciated Cory Doctorow's approach to things. From his early days at BoingBoing to his rise to historical fame for "enshittification," I always loved his adherence to purpose: "Art should be free and accessible."
 
-And it worked — for a while. Just long enough for everyone to mistake the thrashing for strategy.
+He supports his writing with promotion, special editions, the like. He figured out the model before most people realized the old one was breaking. But even that approach — even the correct answer from ten years ago — is about to get stress-tested in ways nobody planned for.
 
 ---
 
@@ -86,7 +108,7 @@ You ever notice how every service you use got worse at the same time?
 
 Streaming services raising prices and adding ads. Social platforms choking organic reach to sell it back to you. Banks charging fees on money they're already lending out at interest. Insurance companies whose entire business model is finding reasons not to pay.
 
-It's not a conspiracy. It's convergent evolution.
+It's rabies, friend. Rabies all the way down.
 
 When your moat starts draining, you don't build a better castle. You charge more for the drawbridge.
 
@@ -136,21 +158,13 @@ It feels like the revolution already happened and most people haven't noticed be
 
 ---
 
-## The Bite Marks Are Everywhere
-
 Look at the discourse.
 
 "AI is stealing jobs." "AI is plagiarism." "AI is the end of creativity."
 
 Those aren't arguments. Those are bite marks.
 
-That's the sound of a system that built its entire value proposition on scarcity realizing that scarcity is evaporating — and lashing out at the thing making it evaporate instead of asking the harder question:
-
-**What are we actually worth when the gate is open?**
-
----
-
-## The Uncomfortable Truth
+That's the sound of a system that built its entire value proposition on scarcity realizing that scarcity is evaporating — and lashing out at the thing making it evaporate instead of asking the harder question.
 
 Some of us are worth a lot. Our taste, our judgment, our ability to see what matters — that doesn't go away when production gets cheap.
 
@@ -160,33 +174,27 @@ And that's the part nobody wants to say out loud.
 
 ---
 
-## So What Do You Do?
+What do I do?
 
-You stop defending the drawbridge.
-
-You stop pretending the moat is full when you can see the bottom.
-
-You start building for a world where access isn't the product.
+I'm building for a world where access isn't the product. Where my ideas are worth their weight in gold because the barrier between idea and execution is a couple of markdown files.
 
 Where value comes from what you *do* with the tools, not from controlling who gets to use them.
 
 ---
 
-## Yeah, I Know How This Sounds
+Yeah, I know how this sounds.
 
 I sound like I'm writing a manifesto in my underwear.
 
 And honestly? I kind of am.
 
-But I'm also the guy who built his own website, wrote his own editing system, hired AI agents to help him ship, and is currently watching the economics of everything he thought he understood rearrange themselves in real time.
+But I'm also the person who built their own website, wrote their own editing system, hired AI agents to help them ship, and is currently watching the economics of everything they thought they understood rearrange themselves in real time.
 
 I'm not theorizing.
 
 I'm taking notes while the building shakes.
 
 ---
-
-## Closing
 
 The system isn't dying gracefully.
 
